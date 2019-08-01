@@ -1,14 +1,14 @@
 # C-Programming-Language-Example
-C programming for learning and reference purpose.
+C programming for learning and reference purpose. Most importantly challenge yourself to become better.
 
 # Getting Started
 You can download the code by using the button "clone or download" OR copy the code into your file.
 
 # Method Involved
-1. Decision Making.
-2. Looping.
-3. Array and Pointer.
-4. File I/O.
+1. Decision Making
+2. Looping
+3. Array and Pointer
+4. File I/O
 5. Data Structure
 6. Call Function
 7. Date and Time
