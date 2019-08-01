@@ -13,7 +13,7 @@ You can download the code by using the button "clone or download" OR copy the co
 (Note: lesson for pointer are still think a simple to present it...)
 
 # Mini Project
-There are 2 mini projects that created for deeper understanding. You may also can test yourself with the provided or new topics.
+There are 2 mini projects that created for deeper understanding. You may also can test yourself with the provided or new topics. After you run the code, there will few text file will be created. You can edit it internally or externally, but make sure it is correct format and style. 
 
 # Tools
 Currently using Dev C++ to create the code. 
