@@ -8,7 +8,8 @@ You can download the code by using the button "clone or download" OR copy the co
 1. Decision Making.
 2. Looping.
 3. Array.
-4. File I/O.
+4. Data Structure
+5. File I/O.
 
 (Note: lesson for pointer are still think a simple to present it...)
 
