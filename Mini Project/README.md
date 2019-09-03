@@ -13,8 +13,13 @@ You can download the code by using the button "clone or download" OR copy the co
 6. Call Function
 7. Date and Time
 
-# Mini Project
-Currently there are 2 mini projects that created for deeper understanding. You may also can test yourself with the provided or new topics. After you run the code, there will few text file will be created. You can edit it internally or externally, but make sure it is correct format and style. 
+# Mini Project/Simulation
+Currently there are few mini projects/simulation that created for deeper understanding. You may also can test yourself with the provided or new topics. After you run the code, there will few text file will be created. You can edit it internally or externally, but make sure it is correct format and style. 
+
+# Project/Simulation Topic
+1. Fast Food Restaurant
+2. Hotel
+3. Elevator
 
 # Tools
 Currently using Dev C++ to create the code. 
